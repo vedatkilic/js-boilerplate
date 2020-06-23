@@ -4,9 +4,14 @@
 
 Minimal Javascript boilerplate with Webpack, Babel, Sass, ESLint, Hot Module Replacement, and development/production optimization.
 
+Based on tutorial:
+
+[![Learn Webpack - Full Tutorial for Beginners](https://img.youtube.com/vi/MpGLUVbqoYQ/0.jpg)](https://www.youtube.com/watch?v=MpGLUVbqoYQ)
+
 ## Installation
 
 ```
+git clone https://github.com/vedatkilic/js-boilerplate.git
 npm install
 ```
 
